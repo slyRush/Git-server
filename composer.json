@@ -1,6 +1,7 @@
 {
 	"require": {
-		"php" : ">=5.5.9"
+		"php" : ">=5.5.9",
+		"catfan/Medoo": "^1.0"
 	},
 	"require-dev": {
 		"ehesp/steam-login" : "1.*"
